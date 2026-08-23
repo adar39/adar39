@@ -114,7 +114,10 @@ Learn the fundamentals → understand the mathematics → implement it → write
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" title="NumPy" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" title="Pandas" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" title="Matplotlib" alt="Matplotlib"/>
-  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="55" title="Seaborn" alt="Seaborn"/>
+  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg"
+     width="55"
+     title="Seaborn"
+     alt="Seaborn"/>
 </p>
 
 🤖 AI / Machine Learning
