@@ -110,11 +110,33 @@ Learn the fundamentals → understand the mathematics → implement it → write
 🐍 Python & Data Science
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" title="NumPy" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" title="Pandas" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" title="Matplotlib" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="200" title="Seaborn" alt="Seaborn"/>
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+       width="55" height="55" title="NumPy" alt="NumPy"/>
+
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+       width="55" height="55" title="Pandas" alt="Pandas"/>
+
+  <!-- Matplotlib -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+       width="55" height="55" title="Matplotlib" alt="Matplotlib"/>
+
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-mark-darkbg.svg"
+       width="55" height="55" title="Seaborn" alt="Seaborn"/>
+
+  <!-- Scikit-learn -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+       width="55" height="55" title="Scikit-learn" alt="Scikit-learn"/>
+
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
+       width="55" height="55" title="PyTorch" alt="PyTorch"/>
+
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
+       width="55" height="55" title="TensorFlow" alt="TensorFlow"/>
 </p>
 
 🤖 AI / Machine Learning
