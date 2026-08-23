@@ -130,7 +130,7 @@ Note: PyTorch, TensorFlow, and other AI tools are part of my ongoing learning pa
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git" alt="Git"/>
-  <span style="background-color:white;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55" title="GitHub" alt="GitHub"/></span>
+  <span style="background-color:blue;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55" title="GitHub" alt="GitHub"/></span>
 </p>
 
 📚 What I'm Learning Right Now
