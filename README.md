@@ -1,56 +1,58 @@
 <div align="center">
 
-  <!-- TOP ANIMATED BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=bg_gradient&customColorList=0,2,10,18,30&height=300&section=header&text=ADAR%20DEY&fontSize=70&fontAlignY=35&desc=ICT%20%7C%20MATHEMATICS%20%7C%20AI%20%26%20ML%20%7C%20DSA&descAlignY=58&descAlign=50&stroke=FFFFFF&strokeWidth=1" width="100%" alt="Adar Dey Header Banner"/>
+  <!-- SAFE & RELIABLE HEADER SECTION -->
+  <table width="100%">
+    <tr>
+      <td align="center" background="https://raw.githubusercontent.com/username/username/main/header-bg.png" style="background-size: cover; padding: 40px;">
+        <h1 align="center" style="font-size: 38px; border-bottom: none;">⚡ ADAR DEY ⚡</h1>
+        <p align="center">
+          <b>B.Sc. in Information & Communication Technology (ICT) | Comilla University</b>
+        </p>
+        <p align="center">
+          <code>Mathematics & Physics Enthusiast</code> • <code>AI / Machine Learning</code> • <code>DSA (C++)</code>
+        </p>
+      </td>
+    </tr>
+  </table>
 
   <br>
 
-  <!-- TYPING SVG EFFECTS -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=B.Sc.+in+ICT+at+Comilla+University;Mathematics+%26+Physics+Enthusiast;Building+Machine+Learning+%26+AI+Systems;Data+Structures+%26+Algorithms+in+C%2B%2B;Future+RAG+%26+LLM+Architect" alt="Animated Typing Banner" />
+  <!-- TYPING EFFECT WITH RELIABLE FALLBACK PARAMETERS -->
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=40&lines=ICT+Student+at+Comilla+University;Mathematics+%26+Physics+Enthusiast;Building+Machine+Learning+Systems;Mastering+Data+Structures+%26+Algorithms;Author+of+Python+%26+DS+eBooks" alt="Typing Animation" />
   </a>
 
   <br><br>
 
-  <!-- SOCIAL BADGES WITH GLOW METRICS -->
-  <a href="Adar39">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117" alt="GitHub" />
+  <!-- SOCIAL / CONTACT BADGES -->
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="adardey638@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
 </div>
 
 <br>
 
-<!-- CUSTOM METRIC BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=00f0ff&style=flat-square" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-MACHINE%20LEARNING-FFD700?style=flat-square&logo=python&logoColor=black" alt="Focus" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20COLLABORATION-00FF66?style=flat-square" alt="Status" />
-</p>
-
 ---
 
-## ⚡ ARCHITECTURE OF MY PROFILE
+## ⚡ ARCHITECTURE & PROFILE OVERVIEW
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
 │   Adar Dey                                                                  │
-│   ├── University   : Comilla University                                     │
-│   ├── Department   : Information and Communication Technology (ICT)         │
-│   ├── Core Logic   : Mathematics ∩ Physics ∩ Computer Science               │
-│   ├── Primary Tech : C++, Python, NumPy, Pandas, Scikit-Learn               │
-│   ├── Authoring    : Python & Data Science eBooks                           │
-│   └── Crafting     : Visual & Algorithmic Handwritten Notes (DSA)           │
+│   ├── Academic Base : Comilla University (Dept. of ICT)                     │
+│   ├── Foundations   : Mathematics ∩ Physics ∩ Algorithmic Logic             │
+│   ├── Primary Tech  : C++, Python, NumPy, Pandas, Scikit-Learn              │
+│   ├── Publishing    : Python & Data Science eBooks                          │
+│   └── Visual Notes  : Handwritten DSA Schematics (Arrays, Search, Graphs)   │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
