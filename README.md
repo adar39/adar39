@@ -13,7 +13,7 @@
   <br><br>
 
   <!-- SOCIAL BADGES WITH GLOW METRICS -->
-  <a href="https://github.com/yourusername">
+  <a href="Adar39">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117" alt="GitHub" />
   </a>
   &nbsp;
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="adardey638@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
