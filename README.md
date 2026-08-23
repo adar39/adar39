@@ -32,7 +32,7 @@ My current focus is **Machine Learning**, while continuously developing my **DSA
 I am also building my own learning resources, including:
 
 - 🐍 Python & Essential Python Libraries for Data Science
-- 🧩 DSA handwritten notes
+- 📖 DSA handwritten notes
 - 📚 Arrays, Binary Search, Graphs, DP, and more
 
 > **Learn → Understand → Implement → Build → Share**
@@ -45,7 +45,7 @@ I am also building my own learning resources, including:
 <tr>
 <td width="50%">
 
-### 🤖 AI & Data Science
+### 🖥️ AI & Data Science
 
 📌 Machine Learning  
 📌 Mathematical Foundations  
@@ -59,16 +59,14 @@ I am also building my own learning resources, including:
 
 <td width="50%">
 
-### 🧩 Algorithms & Problem Solving
+### 📱 DSA with C++ and java 
 
-📌 Data Structures  
-📌 Algorithms  
-📌 C++  
 📌 Arrays  
+📌 Linked List
 📌 Binary Search  
-📌 Graph Algorithms  
-📌 Dynamic Programming  
-📌 Continuous Problem Solving
+📌 Tree and Graph
+📌 Dynamic Programming
+📌 Continuous Problem Solving..
 
 </td>
 </tr>
@@ -88,6 +86,7 @@ I am also building my own learning resources, including:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="55" title="PHP" alt="PHP"/>
 </p>
 
+
 ### 🌐 Web Technologies
 
 <p>
@@ -95,6 +94,7 @@ I am also building my own learning resources, including:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" title="CSS3" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" title="JavaScript" alt="JavaScript"/>
 </p>
+
 
 ### 🐍 Python & Data Science
 
@@ -105,6 +105,7 @@ I am also building my own learning resources, including:
   <img src="https://seaborn.pydata.org/_static/logo-mark-darkbg.svg" width="62" title="Seaborn" alt="Seaborn"/>
 </p>
 
+
 ### 🤖 AI / Machine Learning
 
 <p>
@@ -112,6 +113,7 @@ I am also building my own learning resources, including:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="55" title="PyTorch" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="55" title="TensorFlow" alt="TensorFlow"/>
 </p>
+
 
 ### 🧩 Version Control
 
