@@ -8,7 +8,7 @@
   <a href="https://github.com/adar39">
     <img src="https://img.shields.io/badge/GitHub-Adar%20Dey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20DSA-8A2BE2?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20DataScience%20%7C%20DSA-8A2BE2?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/University-Comilla%20University-0A66C2?style=for-the-badge" alt="University"/>
   <img src="https://img.shields.io/badge/Department-ICT-00A98F?style=for-the-badge" alt="Department"/>
 </p>
