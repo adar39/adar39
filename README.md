@@ -48,9 +48,9 @@
 │   Adar Dey                                                                  │
 │   ├── University   : Comilla University                                     │
 │   ├── Department   : Information and Communication Technology (ICT)         │
-│   ├── Core Logic   : Mathematics ∩ Physics ∩ Computer Science              │
+│   ├── Core Logic   : Mathematics ∩ Physics ∩ Computer Science               │
 │   ├── Primary Tech : C++, Python, NumPy, Pandas, Scikit-Learn               │
 │   ├── Authoring    : Python & Data Science eBooks                           │
-│   └── Crafting     : Visual & Algorithmic Handwritten Notes (DSA)          │
+│   └── Crafting     : Visual & Algorithmic Handwritten Notes (DSA)           │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
