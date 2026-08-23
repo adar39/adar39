@@ -126,10 +126,9 @@ Learn the fundamentals → understand the mathematics → implement it → write
 
 Note: PyTorch, TensorFlow, and other AI tools are part of my ongoing learning path and exploration.
 
-🧩 Algorithms & Computer Science
+🧩 Version Control 
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" title="C++" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub" alt="GitHub"/>
 </p>
