@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Adar Dey
 
-🚀 AI & Machine Learning Enthusiast | DSA Explorer | Mathematics & Physics Enthusiast
+🚀 AI and Data Science Enthusiast | DSA Explorer | Mathematics & Physics Enthusiast
 
 <p>
   <a href="https://github.com/adar39">
@@ -24,7 +24,7 @@
 
 🧠 About Me
 
-I am Adar Dey, an Information and Communication Technology (ICT) student at Comilla University with a strong passion for Mathematics, Physics, Programming, Artificial Intelligence, and Machine Learning.
+I am Adar Dey, an Information and Communication Technology (ICT) student at Comilla University with a strong passion for Mathematics, Physics, Programming, Artificial Intelligence, and Data Science.
 
 My learning journey is centered around understanding fundamentals deeply, not simply collecting technologies.
 
@@ -77,7 +77,7 @@ Learn the fundamentals → understand the mathematics → implement it → write
 
 📌 Binary Search
 
-📌 Graph Algorithms
+📌 Graph and DP Algorithms
 
 📌 Continuous DSA practice
 
