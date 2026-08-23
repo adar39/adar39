@@ -133,4 +133,7 @@ Deep Learning
 RAG / LLMs
       │
       ▼
+Agentic AI
+      │
+      ▼
 AI Engineering
