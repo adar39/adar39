@@ -61,12 +61,12 @@ I am also building my own learning resources, including:
 
 ### 📱 DSA with C++ and java 
 
-📌 Arrays  
-📌 Linked List
-📌 Binary Search  
-📌 Tree and Graph
-📌 Dynamic Programming
-📌 Continuous Problem Solving..
+📌 Arrays </br> 
+📌 Linked List </br> 
+📌 Binary Search </br>   
+📌 Tree and Graph </br> 
+📌 Dynamic Programming </br> 
+📌 Continuous Problem Solving.. </br> 
 
 </td>
 </tr>
