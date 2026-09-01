@@ -63,7 +63,7 @@ I am also building my own learning resources, including:
 
 📌 Arrays </br> 
 📌 Linked List </br> 
-📌 Binary Search </br>   
+📌 Binary Search   
 📌 Tree and Graph </br> 
 📌 Dynamic Programming </br> 
 📌 Continuous Problem Solving.. </br> 
